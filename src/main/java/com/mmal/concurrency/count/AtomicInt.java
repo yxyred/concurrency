@@ -1,6 +1,5 @@
-package com.mmal.concurrency.Atomic;
+package com.mmal.concurrency.count;
 
-import com.mmal.concurrency.annotation.NotThreadSafe;
 import com.mmal.concurrency.annotation.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
 
