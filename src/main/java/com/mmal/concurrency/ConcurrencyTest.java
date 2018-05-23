@@ -37,7 +37,7 @@ public class ConcurrencyTest {
         }
         countDownLatch.await();
         executorService.shutdown();
-        log.info("count:{}",count);
+        log.info("Atomic:{}",count);
     }
 
     public static void add(){

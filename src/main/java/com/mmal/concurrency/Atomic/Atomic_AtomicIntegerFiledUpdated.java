@@ -1,4 +1,4 @@
-package com.mmal.concurrency.count;
+package com.mmal.concurrency.Atomic;
 
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
